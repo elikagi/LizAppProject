@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073601319942",
+    "project_id": "lizappproject",
+    "storage_bucket": "lizappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073601319942:android:d6cc200ba8122d493d5f87",
+        "android_client_info": {
+          "package_name": "com.example.lizappproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073601319942-n9o068gi48brqh3dnao78505buqidvdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC4l1A9Hpc3oniDFF8e8tEYEjqsSnX2WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073601319942-n9o068gi48brqh3dnao78505buqidvdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
